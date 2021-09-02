@@ -1,0 +1,47 @@
+body {
+    background: rgb(234, 114, 103);
+    font-family: helvetica;
+}
+a {
+    color: navy;
+    text-decoration: underline;
+}
+ul.nav {
+    font-family: helvetica;
+    width: 100%;
+    background-color: white;
+    text-decoration: none;
+    color:rgb(234, 114, 103)
+}
+div.container {
+    width: 100%;
+    margin: 0, auto;
+}
+div h1.display-4 {
+    text-decoration: none
+}
+div p.lead{
+    text-decoration: none;
+}
+ul.list-group {
+    width: 25%;
+    text-decoration: none
+}
+div.container1 {
+    width: 100%;
+    margin: 0, auto;
+}
+div h1.display-5 {
+    text-decoration: none
+}
+div p.lead1 {
+    text-decoration: none;
+}
+div.media {
+    text-align:center;
+    width: 23%
+}
+div.col-sm {
+    text-align:center;
+    text-decoration:none;
+}
